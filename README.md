@@ -1,6 +1,8 @@
 <div align="center">
 
-# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/7259c386-0ce0-453b-ae55-a02dd05cd98d" /> Cursed Lands
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/7259c386-0ce0-453b-ae55-a02dd05cd98d" />
+
+# Cursed Lands
 
 ### A solo-developed, isometric dark-fantasy action RPG
 
@@ -13,6 +15,8 @@ Python · Pygame · Single-player · Diablo-inspired
 </div>
 
 ---
+
+<img width="1192" height="795" alt="image" src="https://github.com/user-attachments/assets/f6607b5f-1d1c-42d8-aa44-7903ec643fdd" />
 
 ## Enter the Cursed Lands
 
