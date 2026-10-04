@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Cursed Lands
+# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/7259c386-0ce0-453b-ae55-a02dd05cd98d" /> Cursed Lands
 
 ### A solo-developed, isometric dark-fantasy action RPG
 
@@ -23,6 +23,8 @@ You are that someone: a Paladin with a blade, an emerging command of magic, and 
 Cursed Lands is a mouse-driven action RPG inspired by the atmosphere and rhythm of classic Diablo-style adventures. Fight through connected isometric locations, collect equipment, develop your skills, and follow the survivors' warnings toward the heart of the corruption. From the forests of Ebonwood to caves, ruined stonework, and a frozen path, each step carries you farther from safety—and closer to an answer.
 
 This is not just a combat prototype. It brings exploration, character progression, trading, dialogue, sound, and a final confrontation together into a complete journey.
+
+<img width="1198" height="797" alt="image" src="https://github.com/user-attachments/assets/f4dcf70f-42cc-4dd9-ac53-1febb4e6e22b" />
 
 ### Why play?
 
@@ -53,6 +55,8 @@ The in-game credits describe a journey of roughly one to two hours, although you
 - A keyboard and a mouse with left and right buttons.
 
 Python 3.12+ is important for the current source: some f-strings reuse quote characters inside embedded expressions, using syntax supported by newer Python versions.
+
+<img width="1194" height="796" alt="image" src="https://github.com/user-attachments/assets/0ff17e4d-4be0-4d06-9873-4c6d786c2d69" />
 
 ### Run from source
 
@@ -102,6 +106,8 @@ Keep the assets in their original folders. Images, maps, fonts, music, and sound
 
 Skills must be unlocked before their hotkeys can select them. You can also select skills through the HUD icons.
 
+<img width="1194" height="797" alt="image" src="https://github.com/user-attachments/assets/5a447294-e75c-4708-897b-dd0a8c19890b" />
+
 ### Your first steps
 
 1. Talk to the people around the seaside refuge. Their advice provides both context and practical guidance.
@@ -140,6 +146,8 @@ Their conversations reveal a land overtaken by an evil older and stronger than i
 | Cursed Den | The destination at the end of the trail—and the confrontation the survivors have warned you about |
 
 The locations are connected through defined passages. Waypoints provide another route between discovered areas; they are unlocked through exploration rather than all being available from the start.
+
+<img width="1188" height="792" alt="image" src="https://github.com/user-attachments/assets/02af9b82-2ae5-4a5b-aa46-bcc1a9f967c2" />
 
 ### Steel and Will
 
@@ -210,6 +218,8 @@ The final boss extends the ordinary enemy class with its own decision-making and
 Vorthax is implemented by `DemonBoss`, a subclass of `Enemy`. Its behaviour includes ranged fire attacks, teleporting around the player's position, gradual health regeneration, and voice playback with randomized delays. Pending visual effects are passed back to the main loop, while the introduction, death sequence, victory text, and credits are handled by the surrounding game state.
 
 </details>
+
+<img width="1195" height="798" alt="image" src="https://github.com/user-attachments/assets/1e95afa4-dc11-44df-a6f0-08a547557f80" />
 
 ### Combat and animation
 
